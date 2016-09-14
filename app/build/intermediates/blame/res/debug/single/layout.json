@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
+        "source": "E:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "E:\\Android\\lab03-skeleton-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
+        "source": "E:\\Android\\lab03-skeleton-master\\app\\src\\main\\res\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "E:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one.xml",
+        "source": "E:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\layout\\activity_one.xml"
+    },
+    {
+        "merged": "E:\\Android\\lab03-skeleton-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one.xml",
+        "source": "E:\\Android\\lab03-skeleton-master\\app\\src\\main\\res\\layout\\activity_one.xml"
+    }
+]
